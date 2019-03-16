@@ -1,0 +1,34 @@
+#header .menu ul li{
+    display: inline-block;
+
+}
+.main-drop{
+    display: none
+}
+
+.menu ul li{
+    padding: 10px
+}
+.kk{
+    background-color: #ff7200;
+  
+    width: 130px;
+
+
+    padding:10px
+}
+.social i{
+    padding: 15px;
+    margin: 10px;
+    height: 20px;
+    width: 30px
+}
+.nn{
+    display: inline-block;
+}
+#header{
+    margin-top: 30px;
+}
+.kk{
+    color: azure
+}
